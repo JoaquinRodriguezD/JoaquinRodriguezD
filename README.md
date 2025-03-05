@@ -9,7 +9,6 @@
 <br>
 <br>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joaquin-rdz/" target="_blank">
