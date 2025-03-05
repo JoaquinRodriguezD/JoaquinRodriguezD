@@ -18,7 +18,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="56" height="40" alt="discord logo"  />
   </a>
 </div>
-<br
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
@@ -49,6 +49,7 @@
 </div>
 <br>
 
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaquinRodriguezD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
