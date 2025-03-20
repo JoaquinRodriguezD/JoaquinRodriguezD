@@ -1,7 +1,5 @@
 <div align="center" style="text-align:center;">
-  <a href="https://joaquinrodriguezd.github.io/">
-  Portafolio  
-  </>  
+  <a href="[https://your-portfolio-url.com](https://joaquinrodriguezd.github.io/)" target="_blank" style="color: #fff; background-color: #007bff; padding: 10px 20px; text-decoration: none; border-radius: 5px;">View My Portfolio</a>
 </div>
 
 <br>
