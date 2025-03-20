@@ -1,11 +1,9 @@
 <div align="center" style="text-align:center;">
-  <h3>
-    Live Demo Etch-Sketch 
-  </h3>
-  <h5>
-  https://joaquinrodriguezd.github.io/  
-  </h5>  
+  <a href="https://joaquinrodriguezd.github.io/">
+  Portafolio  
+  </>  
 </div>
+
 <br>
 <br>
 
@@ -18,6 +16,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="56" height="40" alt="discord logo"  />
   </a>
 </div>
+
+<br>
 <br>
 
 <div align="center">
@@ -47,6 +47,7 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
 </div>
+
 <br>
 
 ###
